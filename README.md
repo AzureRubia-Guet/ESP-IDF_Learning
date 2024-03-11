@@ -1,2 +1,2 @@
 # ESP-IDF_Learning
-my own learning note
+ESP-IDF的笔记，如有疏漏或者错误，还请斧正
